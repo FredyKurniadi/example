@@ -1,4 +1,3 @@
-```markdown
 # My Markdown File Example
 
 This is a demonstration of a Markdown file. Below are some common Markdown elements:
